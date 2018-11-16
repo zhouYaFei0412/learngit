@@ -8,8 +8,4 @@ B
 D
 B
 C
-<<<<<<< HEAD
-b12332131
-=======
-b12332131
->>>>>>> dev1
+sdfasdfasdfadf
